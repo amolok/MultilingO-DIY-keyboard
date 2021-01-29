@@ -1,0 +1,49 @@
+{
+
+  "title":"amrok 200508",
+  "onScreen":{
+
+    "main":[
+      "[XK:й1¹[U+0301]][XK:ц2²√½⅔][XK:у3³∛⅓][XK:к4¼∜][XK:е5ё][XK:н6∂][XK:г∫&7][XK:ш✪⚹∞8][XK:щ←9][XK:з∅⇒→⁰₀0][XK:х✘❌❎∣∤∥∦=:][XK:ъ[MC://][MC:/* ][MC:/*\n \n*\\[UP]][MC:;\n* ];]",
+      "[XK:ф/|\\][XK:ы@⚠✆][XK:в#№§¶][XK:а$¢€£][XK:п%][XK:р^∧ˆ∩₽®][XK:о·•⭕⌘[MC:🔳][MC:🔲][MC:☐]&][XK:л☆★∙×*][XK:д<{[LB](][XK:ж>}[RB])][XK:э¡[MC:°C]°[MC:к₽ ]₽!]",
+      "[SHIFT][XK:я«„“‘<`][XK:ч»”‘>´][XK:с_[MC:__][MC:~~]©][XK:м\"'[U+0301]][XK:и+✓✔️☑☒✅±][XK:т™÷_≈~-][XK:ь≡≠=-–—][XK:б[MC:~~][MC:\n---\n][MC:\n===\n][MC:[LB]…[RB]]…][XK:ю[MC:?!]?][4D:ё[LEFT][UP][RIGHT][DOWN]][DEL]",
+      "[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+    ],
+
+    "shifted":[
+      "ЙЦУКЕНГШЩЗХЪ",
+      "ФЫВАПРОЛДЖ[XK:Э!~]",
+      "[SHIFT]ЯЧСМИТЬБЮ[4D:Ё[LEFT][UP][RIGHT][DOWN]][DEL]",
+      "[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+    ],
+
+    "sym":[
+      "1234567890:;[ALL]",
+      "/@#$%^&*()![COPY][CUT]",
+      "[SHIFT]«»_\"+-—…?[UNDO][FDel]",
+      "[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+    ],
+
+    "altGr":[
+      "[XK:♬♪♪♫♬♭♮♯⚐⚑][XK:πλαβγρδΩψµѣѵіѳ][XK:⇄⇒→⇉↗↘←↓↑⇈][XK:7☢☣♻⚠][XK:8⚤⚢⚣⚥⚭][XK:9☥☤☦☪☭☯☮][XK:+♂♀±][XK:-_[MC:~~]~—[MC:---]–]",
+      "[XK:♡♥♢♦♤♠♧♣][XK:∑∀∃∇Δ⌀∋∌∈∉∝⊙∞][4D:[ALL][LEFT][UP][RIGHT][DOWN]]4[4D:5←↑→↓][XK:6⚀⚁⚂⚃⚄⚅][XK:×^¹²³★☆·*][XK::|\\/÷]",
+      "[SHIFT][XK:☐☑☒✓✕✗✘✔️✅][XK:₽[MC:руб. ][MC:к₽]¥圓元£€$][XK:1¹½⅓¼∜][XK:2²√⅔½][XK:3³∛⅓][XK:=…≈≡≠][DEL]",
+      "[TOOL][SPACE][XK:(←[LB]<〈≤{][XK:,:;⬜◻️◼️⚡]0[SYM:.][XK:)→[RB]>〉≥}][ENTER]"
+    ], 
+
+    "symShifted":[
+      "ˋˇ´¨˙˚˘˜ˆ[XK:⌀[MC:000][MC:00]0]:;[XK:=[LB]<>[RB]÷×≈]",
+      "[XK:øáǎåãᾶāāăả][XK:‰‱]đɫ[XK:ėėğ]ḥț[XK:űůŭ]ł[XK:ӂ][XK:✦✧✩✪✫✬✭✮✯✰✱✲✵✶✷✸✹✺✻✼✽✾✿❀❁❂❃❅❆❈❉❊❋]",
+      "[SHIFT][XK:žż]×č\"ñ★☆…?[XK:’„“‘”✓`][DEL]",
+      "[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+    ],
+
+"altGrShifted":[
+"[U+0336][U+0332][U+0333][U+0305][CLIPBOARD]",
+"[ALL][COPY][CUT][PASTE][HOME][PGUP][PGDN][UP][DOWN]",
+"[EDIT][UNDO][REDO][ESC][END][W.LEFT][W.RIGHT][LEFT][RIGHT]",
+"[SHIFT][CAPS][NUMLCK][123][TAB][INSERT][WDEL][FDel][DEL]",
+"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+]
+  }
+}

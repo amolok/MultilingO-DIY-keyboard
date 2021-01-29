@@ -1,0 +1,46 @@
+{
+
+  "title":"amrok 210103-en",
+  "onScreen":{
+
+    "main":[
+      "[XK:q1¹[U+0301]!][XK:w2\"][XK:e3][XK:r4®][XK:t5™][XK:y6][XK:u∫&7][XK:i✪⚹∞*8][XK:o<{[LB](9][XK:p>}[RB])0]",
+      "[XK:a/|\\[MC://][MC:/* ][MC:/*\n \n*/[UP]]][XK:s@°[MC:°C]⚠✆][XK:d#№§¶][XK:f$¢₽€£][XK:g%][XK:h↑^][XK:j§&][XK:k☆★∙×*][XK:l:'!;]",
+      "[SHIFT][XK:z«„“‘<`←][XK:x»”‘>´→][XK:c_…[MC:__]©][XK:v\"'↓✓✔✅][XK:b☑☒‡±+][XK:n[MC:~~]÷≈~-][XK:m≡≠=…–—][4D:?[LEFT][UP][RIGHT][DOWN]][DEL]",
+      "[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+    ],
+    "shifted":[
+      "QWERTYUIOP",
+      "ASDFGHJKL",
+      "[SHIFT]ZXCVBNM[4D:?[LEFT][UP][RIGHT][DOWN]][DEL]",
+      "[TOOL][123:,][SPACE][][][EDIT:.][ENTER]"
+    ],
+
+    "sym":[
+      "1234567890:[ALL]",
+      "/@#$%^&*;[COPY][CUT]",
+      "[SHIFT]«»_\"+-—…?[UNDO][DEL]",
+      "[TOOL][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+    ],
+    "symShifted":[
+      "1234567890:;[CTRL]",
+      "/@#$%^&*()![COPY][CUT]",
+      "[SHIFT]«»_\"+-—…?[UNDO][FDel]",
+      "[TOOL][123:,][SPACE][][][EDIT:.][ENTER]"
+    ],
+
+    "altGr":[
+      "[XK:♬♪♪♫♭♮♯⚐⚑][XK:πλαβγρδΩψµѣѵіѳ][XK:⇄⇒⇉↗↘⇈↕🔃][XK:7☢☣♻⚠][XK:8⚤⚢⚣⚥⚭][XK:9☥☤☦☪☭☯☮][XK:+♂♀±][XK:-_[MC:~~]~—[MC:---]–]",
+      "[XK:♡♥♢♦♤♠♧♣][XK:∑∀∃∇Δ⌀∋∌∈∉∝⊙∞][4D:[ALL][LEFT][UP][RIGHT][DOWN]]4[4D:5←↑→↓][XK:6⚀⚁⚂⚃⚄⚅][XK:×^¹²³★☆·*][XK::|\\/÷]",
+      "[SHIFT][XK:☐☑☒✓✕✗✘✔️✅][XK:₽[MC:руб. ][MC:к₽]¥圓元£€$][XK:1¹½⅓¼∜][XK:2²√⅔½][XK:3³∛⅓][XK:=…≈≡≠][DEL]",
+      "[TOOL][SPACE][XK:(←[LB]<〈≤{][XK:,:;⬜◻️◼️⚡]0[SYM:.][XK:)→[RB]>〉≥}][ENTER]"
+    ], 
+"altGrShifted":[
+"[U+0336][U+0332][U+0333][U+0305][CLIPBOARD]",
+"[ALL][COPY][CUT][PASTE][HOME][PGUP][PGDN][UP][DOWN]",
+"[EDIT][UNDO][REDO][ESC][END][W.LEFT][W.RIGHT][LEFT][RIGHT]",
+"[SHIFT][CAPS][NUMLCK][123][TAB][INSERT][WDEL][FDel][DEL]",
+"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+]
+  }
+}
