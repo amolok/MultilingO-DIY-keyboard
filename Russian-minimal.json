@@ -6,8 +6,8 @@
       "[XK:й1[U+0301]][XK:ц2²√½⅔][XK:у3³∛⅓][XK:к4¼][XK:е5][XK:н6][XK:г7][XK:ш⚹∞8][XK:щ[MC:[LB][RB][LEFT]:[LB][RB]][MC:()[LEFT]:()]9][XK:з0][XK:х:][XK:ъ;]",
       "[XK:ф/|\\][XK:ы@⚠][XK:в#№§¶][XK:а$€£][XK:п%][XK:р^₽®][XK:о·•⭕&][XK:л☆★∙×*][XK:д<{[LB](][XK:ж>}[RB])][XK:э[MC:°C]°[MC:к₽ ]₽!]",
       "[SHIFT][XK:я«„“‘`][XK:ч»”‘´][XK:с_©][XK:м\"'][XK:и+±][XK:т™÷≈~−-][XK:ь≡≠=–—][XK:б[MC:[LB]…[RB]]…][XK:ю[MC:?!]?][4D:ё[LEFT][UP][RIGHT][DOWN]][DEL]",
-      "[TOOL][123:,][SPACE][][][EDIT:.][ENTER]"
-    ],
+        "[TOOL][123:,][SPACE][][][EDIT:.][ENTER]"
+      ],
     "shifted":[
       "ЙЦУКЕНГШЩЗХЪ",
       "ФЫВАПРОЛДЖЭ",
@@ -28,13 +28,28 @@
       "[TOOL][123:,][SPACE][][W.LEFT][W.RIGHT][EDIT:.][ENTER]"
     ],
 
-      "num":[
-        "[CO:1][XK:⚐⚑∝⊙][XK:☏☎][XK:⇄⇒⇉↗↘⇈↕🔃][CO:2][XK:7][3+2: 8 [UP][PGUP]][XK:9][CO:1][XK:-_~−][XK:#+pw?%]",
-        "[CO:1][XK:♡♥♢♦♤♠♧♣][XK:✓✔️✅✕✗✘][4D:[ALL][LEFT][UP][RIGHT][DOWN]][CO:2][3+2: 4 [LEFT][W.LEFT]][4D:5←↑→↓][3+2: 6 [RIGHT][W.RIGHT]][CO:1][XK:×^★☆*·][XK:+⁺₊±]",
-        "[SHIFT][CO:1][XK:☐☑☒◻️◼️][XK:₽[MC:руб. ][MC:к₽]¥圓元£€$][CO:2][XK:1][3+2: 2 [DOWN][PGDN]][XK:3][CO:1][XK::;|\\/÷][CO:0][DEL]",
-        "[TOOL][XK:.,[EDIT][SYM]∷⋮][SPACE][XK:([LB]<〈≤{][CO:2][XK:0,.+p⌀][XK:)[RB]>〉≥}][CO:1][XK:=…≈≡≠][ENTER]"
-      ],
-      
+    "altGr":[
+      "[TAB][PREDICT][CORRECT][PUNCT][INSP][ACAP]",
+      "[VOICE][SEARCH][LANG][LAYOUTS][INFO]",
+      "[SHIFT][123][SYM][ALTGR][FN][DEL]",
+      "[TOOL][][SPACE][][ENTER]"
+    ],
+
+    "num":[
+      "[CO:1][XK:⚐⚑∝⊙][XK:☏☎[MC:📚][MC:📖]][XK:⇄⇒⇉↗↘⇈↕🔃][CO:2][XK:7][3+2: 8 [UP][PGUP]][XK:9][CO:1][XK:-_~−][XK:#+pw?%]",
+      "[CO:1][XK:♡♥♢♦♤♠♧♣][XK:✓✔️✅✕✗✘][4D:[ALL][LEFT][UP][RIGHT][DOWN]][CO:2][3+2: 4 [LEFT][W.LEFT]][4D:5←↑→↓][3+2: 6 [RIGHT][W.RIGHT]][CO:1][XK:×^★☆*·][XK:+⁺₊±]",
+      "[SHIFT][CO:1][XK:☐☑☒◻️◼️][XK:₽[MC:руб. ][MC:к₽]¥圓元£€$][CO:2][XK:1][3+2: 2 [DOWN][PGDN]][XK:3][CO:1][XK::;|\\/÷][CO:0][DEL]",
+      "[TOOL][XK:.,[EDIT][SYM]∷⋮][SPACE][XK:([LB]<〈≤{][CO:2][XK:0,.+p⌀][XK:)[RB]>〉≥}][CO:1][XK:=…≈≡≠][ENTER]"
+    ],
+
+    "edit":[
+      "[CO:1][XK:>+-/:=[LB][RB]#`][XK:*[MC:[PREDICT]*цитаты [PREDICT]:•цитаты•][MC:[PREDICT]*книги [PREDICT]:•книги•][MC:*quotes ]][CO:0][XK:⭕[MC:```[ENTER][PASTE][ENTER]```[ENTER]:💬][MC:[ALL][LEFT]```[ENTER][ALL][RIGHT][ENTER]```:⚛]•[MC:```:`]·[MC:---:-]▶◀[MC:🔼][MC:🔽]][3+2: [UNDO]  [REDO]][CO:1][3+2: [PASTE]  [CLIPBOARD]]",
+      "[CO:2][XK:[TRANSLATE][ã→a][ｗｉｄｅ][εχ๑тïς]][CO:0][3+2: [W.LEFT]  [HOME]][UP][3+2: [W.RIGHT]  [END]][CO:1][3+2: [COPY]  [CUT]]",
+      "[CO:2][TAB][CO:0][LEFT][ALL][RIGHT][CO:1][DEL]",
+      "[CO:2][SHIFT][CO:1][XK:[PREDICT][CORRECT][PUNCT][INSP][ACAP]][CO:0][DOWN][3+2: [PGUP]  [PGDN]][CO:1][WDEL]",
+      "[LOCK][CO:2][XK:[SAVE][123][SYM][EMOJI][ALTGR][FN]][CO:1][SPACE][CO:0][XK:[VOICE][SEARCH][LANG][LAYOUTS][INFO]][CO:1][ENTER]"
+    ],
+
     "prediction":{
       "type":"true",
       "swipe":"true",
